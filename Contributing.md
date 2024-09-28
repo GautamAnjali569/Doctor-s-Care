@@ -1,3 +1,6 @@
+## Creating an Issue
+Read on how to create and issue adhering to community guidelines [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)
+
 ## Creating a Pull Request
 
 ### Fork the Project:
