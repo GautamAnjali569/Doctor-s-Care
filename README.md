@@ -56,12 +56,15 @@ Click on the "Fork" button at the top right corner of the repository's page on G
 ### Clone Your Forked Repository:
 Clone the forked repository to your local machine using the following command:
 
-```bash
+```
+bash
 git clone https://github.com/Ramsey99/fest-registration
-
+```
 ### Create a New Branch and Move to the Branch:
 Create a new branch for your changes and move to that branch using the following commands:
 
-```bash```
-```git checkout -b <branch-name>```
+```
+bash
+git checkout -b <branch-name>
+```
 
