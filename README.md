@@ -45,3 +45,22 @@ Welcome to the Dental Clinic Hospital website project! This repository contains 
 - Service Management: Add, update, or remove services and pricing information.
 - Website Analytics: Monitor website traffic, user interactions, and engagement metrics.
 
+# Contributing
+Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
+
+## Creating Pull Request
+
+### Fork the Project:
+Click on the "Fork" button at the top right corner of the repository's page on GitHub to create your own copy of the project.
+
+### Clone Your Forked Repository:
+Clone the forked repository to your local machine using the following command:
+
+```bash```
+git clone https://github.com/Ramsey99/fest-registration
+
+### Create a New Branch and Move to the Branch:
+Create a new branch for your changes and move to that branch using the following commands:
+```bash```
+git checkout -b <branch-name>
+
