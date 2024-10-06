@@ -45,3 +45,7 @@ Welcome to the Dental Clinic Hospital website project! This repository contains 
 - Service Management: Add, update, or remove services and pricing information.
 - Website Analytics: Monitor website traffic, user interactions, and engagement metrics.
 
+# Contributing
+Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
+
+For Help in Contributing and Creating a Pull Request, Kindly refer to [Contributing Guidelines](Contributing.md)
